@@ -1,0 +1,19 @@
+{
+  "name": "aditya-rogers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya-Rogers/New1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya-Rogers/New1/issues"
+  },
+  "homepage": "https://github.com/Aditya-Rogers/New1#readme"
+}
